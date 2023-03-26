@@ -15,7 +15,7 @@ public class UserInputYear {
 			  
 		  }
 		  else{ 
-			System.out.println(i+" "+"Not leap year");  
+			System.out.println(i+" "+"Not a leap year");  
 		  }
 		  
 		  
